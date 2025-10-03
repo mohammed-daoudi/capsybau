@@ -1,8 +1,8 @@
-# Ouswear - Premium Streetwear E-commerce
+# sybau - Premium Streetwear E-commerce
 
 A cutting-edge e-commerce platform for streetwear featuring **3D product previews**, dark "opium aura" aesthetics, and modern web technologies.
 
-![Ouswear Logo](https://via.placeholder.com/200x80/ff2b4a/ffffff?text=OUSWEAR)
+![sybau Logo](https://via.placeholder.com/200x80/ff2b4a/ffffff?text=sybau)
 
 ## 🌟 Features
 
@@ -43,8 +43,8 @@ A cutting-edge e-commerce platform for streetwear featuring **3D product preview
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ouswear-ecommerce.git
-   cd ouswear-ecommerce
+   git clone https://github.com/mohammed-daoudi/capsybau.git
+   cd sybau-ecommerce
    ```
 
 2. **Install dependencies**
@@ -68,12 +68,12 @@ A cutting-edge e-commerce platform for streetwear featuring **3D product preview
    npm run dev
    ```
 
-Visit `http://localhost:3000` to see your Ouswear store! 🎉
+Visit `http://localhost:3000` to see your sybau store! 🎉
 
 ## 📁 Project Structure
 
 ```
-ouswear-ecommerce/
+sybau-ecommerce/
 ├── app/                    # Next.js 14 App Router pages
 │   ├── (pages)/           # Route groups
 │   ├── api/               # API routes
@@ -178,7 +178,7 @@ colors: {
 2. Update user role in MongoDB:
    ```js
    db.users.updateOne(
-     { email: "admin@ouswear.com" },
+     { email: "admin@sybau.com" },
      { $set: { role: "admin" } }
    )
    ```
@@ -288,10 +288,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-Built with ❤️ by the Ouswear team
+Built with ❤️ by the sybau team
 
 ---
 
 **Top off your look. Own your vibe.** 🧢✨
 
-For questions or support, reach out to us at hello@ouswear.com
+For questions or support, reach out to us at hello@sybau.com

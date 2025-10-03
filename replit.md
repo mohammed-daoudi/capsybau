@@ -1,13 +1,13 @@
-# Ouswear 2.0 - Premium Streetwear E-commerce Platform
+# sybau 2.0 - Premium Streetwear E-commerce Platform
 
 ## Project Overview
 
-**Ouswear 2.0** is a full-stack Next.js 14 e-commerce platform specializing in premium streetwear with 3D product previews, built with a dark "opium aura" aesthetic featuring glass-morphism UI elements.
+**sybau 2.0** is a full-stack Next.js 14 e-commerce platform specializing in premium streetwear with 3D product previews, built with a dark "opium aura" aesthetic featuring glass-morphism UI elements.
 
 ### Current Status: **🎉 ALL MAJOR FEATURES COMPLETE** ✅
 
 **Live Development Server:** Running on port 5000  
-**Authentication:** NextAuth with demo account (admin@ouswear.com / admin123)  
+**Authentication:** NextAuth with demo account (admin@sybau.com / admin123)  
 **Database:** MongoDB with mock data system  
 **UI Framework:** Next.js 14 + TypeScript + Tailwind CSS  
 
@@ -171,7 +171,7 @@ models/
 ## Demo Credentials
 
 **Admin Access:**
-- Email: admin@ouswear.com
+- Email: admin@sybau.com
 - Password: admin123
 
 **Features Available:**
